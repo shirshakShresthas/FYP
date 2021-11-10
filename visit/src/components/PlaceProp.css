@@ -1,0 +1,37 @@
+.cards{
+    height:10em;
+    width:460px;
+    display:inline-block;
+    border-style: groove;
+    border: black;
+    background-color:rgb(216, 230, 216);
+}
+
+.cd{
+    display:inline-block;
+    width:470px;
+    margin-left: 20px;
+    
+    
+}
+
+img{
+    height:400px;
+    width:450px;
+    margin-bottom:10px;
+}
+
+#btn{
+    margin-top:30px;
+    margin-left:150px;
+    color:rgb(6, 47, 59);
+    align-items:center;
+    font-size: 20px;
+    background-color: #76bd78;
+}
+
+#name,#lctn{
+ text-align:center;
+
+}
+

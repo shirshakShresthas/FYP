@@ -1,0 +1,59 @@
+
+.Hero{
+font-family: Times New Roman, Georgia, Serif;
+letter-spacing: 5px;
+}
+
+.head{
+    width:100%;
+    height:auto;
+}
+
+.w3-image{
+    width:100%;
+    height:60%;
+}
+
+.about{
+    height:90%;
+    width:100%;
+    background-color:lightgrey;
+    top:0;
+}
+
+.about .split-left{
+    padding-top:40px;
+    width:60%;
+    height: 70vh;
+    background-color: rgb(207, 153, 88);
+    display: flex;
+    float: left;
+    justify-content: center;
+}
+
+.about .split-right{
+    padding-top:40px;
+    width:40%;
+    height:70vh;
+    background-color:ivory;
+    display: flex;
+    float:right;
+    justify-content: center;
+
+}
+
+.ab{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.w3-center{
+    text-align: center;
+    margin-top: 0px;
+}
+
+.para{
+    margin-left: 40px;
+    margin-right:40px;
+    text-align: justify;
+}

@@ -1,0 +1,38 @@
+h2{
+    color:blueviolet;
+}
+
+.sign{  
+    padding:10px;
+    width:395px;
+    height:450px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:50px;
+    border:1px solid gray;   
+}
+
+#fname, #lname{
+    height: 40px;
+    width:170px;
+    padding-left:3.5%;
+}
+ 
+#email,#phone{
+    height: 40px;
+    width:358px;
+    padding-left:3.5%;
+    margin:"0px"
+}
+#pswd,#cpswd {
+    height: 40px;
+    width:358px;
+    padding-left:3.5%;
+}
+
+#btn{
+    height: 40px;
+    width:50px;
+    color: ivory;
+    background-color: mediumseagreen;
+}

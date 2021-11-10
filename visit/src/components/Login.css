@@ -1,0 +1,30 @@
+.log {
+    width:460px; 
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:30px;
+    border:1px solid rgb(26, 25, 25);   
+    height:315px;
+    padding-top:55px;
+}
+
+#psd,#uname ,#lgbtn {
+    height: 50px;
+    width:400px;
+    margin-left:21px;
+    font-size:20px;
+    padding-left:15px;
+    border:1px solid rgb(26, 25, 25);
+}
+
+body{
+    background-color:white;
+}
+
+#lgbtn{
+    color:rgb(210, 225, 230);
+    align-items:center;
+    font-size: 30px;
+    background-color: #065c09;
+    border: white;
+}
